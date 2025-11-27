@@ -24,7 +24,7 @@ int main() {
     std::cin>> age;
 
     std::cout << "Hello " <<name << "! You are "
-    << age << " years old" <<std::endl; 
+    << age << " years old!" <<std::endl; 
     
     //chaining std::cin
     //reading data with spaces
