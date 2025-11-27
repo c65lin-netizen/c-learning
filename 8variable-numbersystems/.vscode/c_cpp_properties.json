@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:/c++compiler/mingw64/include"
+                "D:/c++compiler/mingw64/include",
             ],
             "defines": [
                 "_DEBUG",
